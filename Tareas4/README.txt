@@ -1,0 +1,2 @@
+Se deben compilar los programas y ejecutarlos, en el caso de el Ejercicio 3, en la primera parte generara un txt con la informacion que regresa y la funcion, y en la segunda parte (nombrada Ejercicio4) se necesita escribir un mensaje y abrir pipeE3.pipe para que se vea reflejado el cambio
+Para el ejercicio 2, se compila y se generara un archivo avisos.log con la informacion resultante

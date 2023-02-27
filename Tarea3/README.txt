@@ -1,0 +1,2 @@
+Compila los archivos y en automatico haran su funcion, a excepcion del ejercicio 3.
+En el caso del ejercicio 3 se tiene que presionar 1 en caso de que se deseee producir o 2 en caso de que se desee consumir, 3 para salir

@@ -1,0 +1,1 @@
+Se deben compilar los programas y ejecutarlos, en caso de que en el ejercicio 3 solo apareza el padre, favor de volver a ejecutar hasta que aparezca el hijo
